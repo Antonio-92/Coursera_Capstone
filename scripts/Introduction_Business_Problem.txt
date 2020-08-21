@@ -1,0 +1,2 @@
+The purpose of this project is to predict the severity of the car accidents in Seattle, let's suppose you are on the road to work and you spot a traffic jam in front of you, wouldn't be a good thing if you can get informations about the road condition, is it wet ? is it full of traffic? or should you take another road ?
+this is the main goal behind the project predicting accidents severity and road conditions in order to save time and find better routes. 

@@ -1,0 +1,2 @@
+The purpose of this project is to predict car accidents in Seattle, let's suppose you are driving to work and going through a traffic jam, what should you do ? should you stay at the same route or take another ? what is the track condition ? is it wet ?
+this is the goal of this project, to predict car accidents and notify you in advance. 
