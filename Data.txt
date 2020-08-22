@@ -1,0 +1,4 @@
+For this project, i will be using a dataset about Seattle's car accident.
+The dataset contains attributes concerning the location of the accident, the severity ,the collision type, fatalities, injuries and many more
+i will be using these attibutes (the required one) in order to predict and build a model that is feasible and influence the goal of the project
+as well evaluating the accuracy of the model. 
